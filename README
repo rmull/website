@@ -1,0 +1,5 @@
+This is a personalized markdown->html personal website generation script that
+borrowed from suckless.org's website generator circa 2002. Create directories
+and markdown files in the webroot, add the directory names and markdown
+filenames to an INCLUDE file in each subdirectory, and run ./generate.sh from
+the webroot.
