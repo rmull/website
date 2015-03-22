@@ -65,10 +65,11 @@ a {
 #menu {
 	display: inline;
 	float: left;
-	width: 141px;
+	width: 162px;
 	color: inherit;
 	text-align: left;
-	margin: 10px 0px 0px 0px;
+	margin: 30px 0px 0px 0px;
+    font-size: 1.1em;
 }
 	#menu ul {
 		margin: 0;
@@ -97,8 +98,8 @@ a {
 		}
 
 #content {
-	padding: 25px 30px 25px 30px;
-	margin: 10px 140px 10px 140px;
+	padding: 15px 30px 25px 30px;
+	margin: 10px 140px 10px 160px;
 	background-color: #fff;
 	color: #555;
 	border: 1px solid #ccc;
