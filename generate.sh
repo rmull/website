@@ -10,7 +10,6 @@ NAME=rmull	# Website "name"
 URL=$NAME.com
 INCLUDE=INCLUDE  # Name of file containing order of menu links. You need one per dir.
 SUBDIR=
-WEBROOT=/var/nginx/$URL/html/$SUBDIR
 PATH=/bin:/usr/bin:/usr/local/bin  # $PATH containing executables for this script
 export PATH
 
@@ -112,6 +111,5 @@ process() { # $1=cwd, $2=baselink, $3=page label
 
 }
 
-cd $WEBROOT
 process "./" "<a href='/$SUBDIR'>/$NAME/" "/$NAME/"
 
