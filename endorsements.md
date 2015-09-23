@@ -1,6 +1,6 @@
 # Links I Like
 
-## Software you might like
+## Worthwhile software
 
 * Linux distro: [CRUX](http://crux.nu)
 * Text editor: [vim](http://www.vim.org)
