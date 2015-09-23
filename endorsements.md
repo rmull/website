@@ -1,6 +1,6 @@
-# Software I Like
+# Links I Like
 
-## Software you might like too
+## Software you might like
 
 * Linux distro: [CRUX](http://crux.nu)
 * Text editor: [vim](http://www.vim.org)
@@ -15,3 +15,7 @@
 * Flash workaround: [quvi](http://quvi.sourceforge.net)
 * Music management: [beets](http://beets.radbox.org)
 * PCB layout: [KiCad](http://kicad-pcb.org)
+
+## Worthwhile learning
+
+* Electronics: [AAC Textbook](http://www.allaboutcircuits.com/textbook)
