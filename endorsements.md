@@ -15,6 +15,7 @@
 * Flash workaround: [quvi](http://quvi.sourceforge.net)
 * Music management: [beets](http://beets.radbox.org)
 * PCB layout: [KiCad](http://kicad-pcb.org)
+* Crypto library: [libressl](http://www.libressl.org)
 
 ## Worthwhile learning
 
