@@ -86,7 +86,7 @@ a {
 	}
 
 		#menu li.dir {
-			font-weight: bold;
+			/*font-weight: bold;*/
 		}
 		#menu li.current {
 			color: #070;

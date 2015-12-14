@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Markdown website generator
 # Changelog:
@@ -33,7 +33,7 @@ END
 			fi
 		else
 			baseurl=$(echo "$curline" | sed 's/ /%20/g')  # URLencode spaces
-			echo -e "			<li class=\"dir\"><a href=\"$baseurl\">$curline</a></li>"	
+			echo -e "			<li class=\"dir\"><a href=\"$baseurl\">$curline/</a></li>"	
 		fi
 	done < $1$INCLUDE
 
